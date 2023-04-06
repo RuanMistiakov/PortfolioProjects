@@ -1,0 +1,1 @@
+SQL Select Query for CovidDeaths and CovidVaccinations datasets
